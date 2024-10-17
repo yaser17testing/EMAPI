@@ -1,0 +1,6 @@
+@EMAPI_HostAddress = http://localhost:5190
+
+GET {{EMAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
